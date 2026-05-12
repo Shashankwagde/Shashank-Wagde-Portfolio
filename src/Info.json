@@ -1,0 +1,139 @@
+{
+  "personal_info": {
+    "name": "Shashank Manoj Wagde",
+    "email": "shashank.wagde.work@gmail.com",
+    "phone": "8999711698",
+    "location": "Parbhani, Maharashtra, India",
+    "github": "https://github.com/Shashankwagde",
+    "linkedin": "Shashank Manoj Wagde"
+  },
+  "education": [
+    {
+      "institution": "Maharashtra Institute of Technology, Chh. Sambhajinagar",
+      "degree": "Bachelor of Technology in Computer Science Engineering",
+      "cgpa": 9.30,
+      "duration": "2022 - 2026"
+    },
+    {
+      "institution": "Kendriya Vidyalaya IOCL, Noonmati, Assam",
+      "level": "12th",
+      "percentage": 84.0,
+      "duration": "2020 - 2022"
+    },
+    {
+      "institution": "Kendriya Vidyalaya IOCL, Noonmati, Assam",
+      "level": "10th",
+      "percentage": 79.2,
+      "duration": "2019 - 2020"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Smart Shopper",
+      "description": "AI-powered recipe recommendation assistant generating recipes, instructions, and shopping lists from user ingredients.",
+      "features": [
+        "Inventory-based recipe generation",
+        "Missing ingredient detection",
+        "Shopping list creation",
+        "Cooking instructions retrieval",
+        "Pantry checking",
+        "Ingredient parsing"
+      ],
+      "technologies": [
+        "Python",
+        "Google Gemini API",
+        "JSON",
+        "Regex",
+        "Pandas",
+        "CLI"
+      ]
+    },
+    {
+      "name": "LLM Image Pipeline",
+      "description": "Automated text-to-image workflow using n8n and Hugging Face APIs.",
+      "features": [
+        "Chat-based input",
+        "Prompt generation",
+        "Image generation via API",
+        "Auto upload to Google Drive"
+      ],
+      "technologies": [
+        "n8n",
+        "Hugging Face API",
+        "OpenRouter (Gemini)",
+        "JavaScript",
+        "Google Drive API"
+      ]
+    },
+    {
+      "name": "Facemask Detection",
+      "description": "CNN-based system to classify images as with or without mask.",
+      "features": [
+        "Image preprocessing",
+        "CNN training",
+        "Real-time prediction",
+        "Dataset handling",
+        "Performance evaluation"
+      ],
+      "technologies": [
+        "Python",
+        "TensorFlow/Keras",
+        "NumPy",
+        "Matplotlib",
+        "OpenCV",
+        "PIL"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "organization": "Training and Placement Cell, MIT, Chh. Sambhajinagar",
+      "role": "Treasurer and Secretary",
+      "duration": "2025 - Present",
+      "responsibilities": [
+        "Managed budgets and expenses",
+        "Maintained records",
+        "Handled communication",
+        "Organized meetings and events"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": ["Python", "C", "Java", "JavaScript"],
+    "tools": ["n8n", "Langchain", "Blender", "VS Code", "Git", "GitHub"],
+    "technical": [
+      "Data Structures and Algorithms",
+      "Operating Systems",
+      "Database Management Systems",
+      "Object-Oriented Programming"
+    ],
+    "platforms": {
+      "leetcode_problems": 150,
+      "geeksforgeeks_problems": 80
+    },
+    "soft_skills": [
+      "Leadership",
+      "Event management",
+      "Collaboration",
+      "Time management"
+    ]
+  },
+  "certifications": [
+    {
+      "organization": "AWS",
+      "name": "AWS Academy Cloud Foundations"
+    },
+    {
+      "organization": "GeeksforGeeks",
+      "name": "iOS Development for Beginners: Master Swift & App Building"
+    },
+    {
+      "organization": "NIELIT",
+      "name": "Robotics Process and Automation Bootcamp"
+    },
+    {
+      "organization": "NIELIT",
+      "name": "Social Media Analytics"
+    }
+  ]
+}
