@@ -1,5 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
+import heroImg from './assets/hero.png';
 import './styles/variables.css';
 import Navbar from './components/layout/Navbar';
 import Hero from './components/sections/Hero';
@@ -64,7 +65,7 @@ function App() {
                   }}
                 >
                   <motion.img 
-                    src="/src/assets/hero.png" 
+                    src={heroImg}
                     alt="Shashank Wagde"
                     style={{ width: '100%', height: '100%', objectFit: 'cover', objectPosition: 'center top', borderRadius: '18px' }}
                     animate={{ x: [0, 1, 0] }}
