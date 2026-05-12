@@ -9,7 +9,7 @@ export const portfolioData = {
   email: "shashank.wagde.work@gmail.com",
   github: "https://github.com/Shashankwagde",
   linkedin: "https://linkedin.com/in/shashankmanojwagde",
-  resumeUrl: "#",
+  resumeUrl: "https://drive.google.com/file/d/1nSuoM-gbux2onwsG7IkMdAfNtnDh982R/view?usp=drive_link",
   
   location: "Parbhani, Maharashtra, India",
   phone: "8999711698",
