@@ -97,14 +97,12 @@ export function Globe({ className, config = GLOBE_CONFIG }) {
     return (
         <div
             className={twMerge(
-                "mx-auto aspect-square w-full max-w-150",
+                "mx-auto aspect-square w-fullmax-w-70 sm:max-w-85 md:max-w-150",
                 className
             )}
         >
             <canvas
-                className={twMerge(
-                    "size-120 opacity-0 transition-opacity duration-500 contain-[layout_paint_size]"
-                )}
+                className="w-full h-full opacity-0 transition-opacity duration-500 contain-[layout_paint_size]"
                 ref={canvasRef}
                 onPointerDown={(e) => {
                     pointerInteracting.current = e.clientX;
